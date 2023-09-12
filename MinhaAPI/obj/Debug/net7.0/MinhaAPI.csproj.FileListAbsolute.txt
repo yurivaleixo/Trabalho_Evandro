@@ -1,0 +1,72 @@
+C:\Users\Aluno\MinhaAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Aluno\MinhaAPI\bin\Debug\net7.0\appsettings.json
+C:\Users\Aluno\MinhaAPI\bin\Debug\net7.0\MinhaAPI.exe
+C:\Users\Aluno\MinhaAPI\bin\Debug\net7.0\MinhaAPI.deps.json
+C:\Users\Aluno\MinhaAPI\bin\Debug\net7.0\MinhaAPI.runtimeconfig.json
+C:\Users\Aluno\MinhaAPI\bin\Debug\net7.0\MinhaAPI.dll
+C:\Users\Aluno\MinhaAPI\bin\Debug\net7.0\MinhaAPI.pdb
+C:\Users\Aluno\MinhaAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Aluno\MinhaAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aluno\MinhaAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aluno\MinhaAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Aluno\MinhaAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Aluno\MinhaAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aluno\MinhaAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aluno\MinhaAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\MinhaAPI.csproj.AssemblyReference.cache
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\MinhaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\MinhaAPI.AssemblyInfoInputs.cache
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\MinhaAPI.AssemblyInfo.cs
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\MinhaAPI.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\MinhaAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\MinhaAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\staticwebassets\msbuild.MinhaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.MinhaAPI.props
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MinhaAPI.props
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MinhaAPI.props
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\scopedcss\bundle\MinhaAPI.styles.css
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\MinhaAPI.csproj.CopyComplete
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\MinhaAPI.dll
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\refint\MinhaAPI.dll
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\MinhaAPI.pdb
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\MinhaAPI.genruntimeconfig.cache
+C:\Users\Aluno\MinhaAPI\obj\Debug\net7.0\ref\MinhaAPI.dll
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\bin\Debug\net7.0\appsettings.Development.json
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\bin\Debug\net7.0\appsettings.json
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\bin\Debug\net7.0\MinhaAPI.exe
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\bin\Debug\net7.0\MinhaAPI.deps.json
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\bin\Debug\net7.0\MinhaAPI.runtimeconfig.json
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\bin\Debug\net7.0\MinhaAPI.dll
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\bin\Debug\net7.0\MinhaAPI.pdb
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\MinhaAPI.csproj.AssemblyReference.cache
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\MinhaAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\MinhaAPI.AssemblyInfoInputs.cache
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\MinhaAPI.AssemblyInfo.cs
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\MinhaAPI.csproj.CoreCompileInputs.cache
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\MinhaAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\MinhaAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\staticwebassets\msbuild.MinhaAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.MinhaAPI.props
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MinhaAPI.props
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MinhaAPI.props
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\staticwebassets.build.json
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\staticwebassets.development.json
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\scopedcss\bundle\MinhaAPI.styles.css
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\MinhaAPI.csproj.CopyComplete
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\MinhaAPI.dll
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\refint\MinhaAPI.dll
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\MinhaAPI.pdb
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\MinhaAPI.genruntimeconfig.cache
+D:\Sistemas de Informação\DSV_Evandro_Projeto\MinhaAPI\obj\Debug\net7.0\ref\MinhaAPI.dll
